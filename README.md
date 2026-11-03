@@ -50,17 +50,41 @@ Abans d'incorporar-me a l'educació vaig treballar en enginyeria, analítica de 
 
 ## Projectes destacats
 
+### Dance Revolution EF · Educació Física, moviment i tecnologia
+
+*Mentoria 4.0 Tarragonès · Projecte en actiu*
+
+<p align="justify">He ideat i desenvolupat la digitalització de la proposta original de Vicenç Rodríguez Jiménez-Bravo: una experiència de Dance Revolution per portar el moviment i la programació a les sessions d'Educació Física.</p>
+
+<ul>
+<li align="justify">Joc complet i plantilla personalitzable de Scratch, amb cançons, nivells i opcions per crear coreografies.</li>
+<li align="justify">Recursos didàctics i guies per a primària i secundària.</li>
+<li align="justify">Orientacions per projectar el joc al gimnàs i preparar una pista interactiva amb Makey Makey.</li>
+<li align="justify">Espai perquè els centres comparteixin experiències, resultats i recomanacions; les aportacions es moderen abans de publicar-se.</li>
+<li align="justify">Eines d'administració per revisar, validar i gestionar les aportacions de la comunitat.</li>
+</ul>
+
+<p align="justify">M'he encarregat del disseny, desenvolupament i manteniment del web, així com de concretar la idea i convertir-la en una proposta digital completa.</p>
+
+<p align="justify"><strong>Tecnologies:</strong> HTML, CSS i JavaScript en mòduls ES; Firebase Authentication i Cloud Firestore, GitHub Actions i GitHub Pages.</p>
+
+[Visita dancerevolutiontgn.cat](https://dancerevolutiontgn.cat) · [Repositori del projecte](https://github.com/antonnin/dance-revolution-tgn) · [Proposta original de Vicenç Rodríguez](https://www.quatreclics.com/inici/autors/vicen%C3%A7-rodr%C3%ADguez-jim%C3%A9nez-bravo)
+
 ### Estacions Meteorològiques en Xarxa · Mentories 4.0
 
 *Departament d'Educació i Formació Professional · Àrea de Tecnologia Educativa i Digitalització Responsable · Des del 2025*
 
-El 2025 vaig crear la idea inicial d'aquest projecte en xarxa per apropar l'observació meteorològica i l'Internet de les Coses als centres educatius. La plataforma reuneix dades enviades per estacions construïdes amb micro:bit, ESP32 i altres plaques, i les presenta perquè els centres les puguin explorar i treballar a l'aula. El curs 2026–2027, amb la meva companya [Paula-Pacho](https://github.com/Paula-Pacho), hi hem afegit noves funcionalitats.
+<p align="justify">El 2025 vaig crear la idea inicial d'aquest projecte en xarxa per apropar l'observació meteorològica i l'Internet de les Coses als centres educatius. La plataforma reuneix dades enviades per estacions construïdes amb micro:bit, ESP32 i altres plaques, i les presenta perquè els centres les puguin explorar i treballar a l'aula.</p>
 
-- Mapa de Catalunya, pàgines de cada estació i gràfiques de dades meteorològiques i històriques.
-- Incorporació de noves estacions amb validació i eines de gestió de dades connectades amb ThingSpeak i Google Workspace.
-- Recursos per al professorat sobre muntatge, programació i connexió de les plaques.
+<p align="justify">El curs 2026–2027, amb la meva companya <a href="https://github.com/Paula-Pacho">Paula-Pacho</a>, hem afegit noves funcionalitats:</p>
 
-**Tecnologies:** JavaScript, HTML, CSS, Google Apps Script, Google Sheets, ThingSpeak, micro:bit, ESP32 i GitHub Pages.
+<ul>
+<li align="justify">Mapa de Catalunya, pàgines de cada estació i gràfiques de dades meteorològiques i històriques.</li>
+<li align="justify">Incorporació de noves estacions amb validació i eines de gestió de dades connectades amb ThingSpeak i Google Workspace.</li>
+<li align="justify">Recursos per al professorat sobre muntatge, programació i connexió de les plaques.</li>
+</ul>
+
+<p align="justify"><strong>Tecnologies:</strong> JavaScript, HTML, CSS, Google Apps Script, Google Sheets, ThingSpeak, micro:bit, ESP32 i GitHub Pages.</p>
 
 [Visita meteoescoles.cat](https://meteoescoles.cat) · [Repositori del projecte](https://github.com/antonnin/estacions-meteo-escoles)
 
@@ -68,26 +92,14 @@ El 2025 vaig crear la idea inicial d'aquest projecte en xarxa per apropar l'obse
 
 *Grup de Treball de Robòtica del Baix Penedès · 2025*
 
-Projecte educatiu de robòtica concebut a partir de la feina del Grup de Treball de Robòtica del Baix Penedès. Amb l'equip vam idear les proves i els reptes que donen forma a l'experiència amb micro:bit. L'aplicació web acompanya els grups d'alumnes en cinc reptes de programació, amb pistes, nivells de dificultat i temporitzador, i està pensada per fer-se servir amb Chromebook. Les sessions s'organitzen amb codis d'accés; el sistema inclou un marcador en directe per projectar i eines de seguiment per al professorat.
+<p align="justify">Amb el Grup de Treball de Robòtica del Baix Penedès hem creat en equip la idea original de l'activitat i totes les proves i reptes educatius al voltant de la <a href="https://microbit.org/ca/">micro:bit</a>.</p>
 
-Hi he contribuït en el disseny del producte i de l'aplicació web, i en la revisió del sistema en el rol de **Product Manager**: he ajudat a concretar necessitats, supervisat el desenvolupament i revisat el funcionament de l'eina amb les proves d'ús. He participat en millores de robustesa i accessibilitat, com la recuperació del progrés, la gestió de l'activitat simultània i la navegació amb teclat. També he participat en el generador d'equips heterogenis per a les activitats i tinc accés al repositori del projecte.
+<p align="justify"><strong>Desenvolupament web:</strong> l'aplicació web ha estat desenvolupada per <a href="https://github.com/Paula-Pacho">Paula-Pacho</a>. Hi he actuat com a <strong>Product Manager</strong>, contribuint a concretar i revisar el producte i supervisar-ne el desenvolupament. També tinc accés al repositori del projecte.</p>
 
-**Tecnologies:** HTML, CSS, JavaScript, Google Apps Script, Google Sheets i GitHub Pages; el generador d'equips es connecta a Firebase Firestore.
+<p align="justify">L'aplicació acompanya els grups d'alumnes en cinc reptes de programació, amb pistes, nivells de dificultat i temporitzador, i està pensada per utilitzar-se amb Chromebook. Les sessions s'organitzen amb codis d'accés; el sistema inclou un marcador en directe per projectar i eines de seguiment per al professorat.</p>
+
+<p align="justify">També he participat en el generador d'equips heterogenis per a les activitats.</p>
+
+<p align="justify"><strong>Tecnologies:</strong> HTML, CSS, JavaScript, Google Apps Script i Google Sheets; el generador d'equips es connecta a Firebase Firestore.</p>
 
 [Visita microbitada.cat](https://microbitada.cat) · [Repositori del generador d'equips](https://github.com/antonnin/generador-grups-microbitada)
-
-### Dance Revolution EF · Educació Física, moviment i tecnologia
-
-*Mentoria 4.0 Tarragonès · Projecte en actiu*
-
-He ideat i desenvolupat la digitalització de la proposta original de Vicenç Rodríguez Jiménez-Bravo: una experiència de Dance Revolution per portar el moviment i la programació a les sessions d'Educació Física.
-
-- Joc complet i plantilla personalitzable de Scratch, amb cançons, nivells i opcions per crear coreografies.
-- Recursos didàctics i guies per a primària i secundària.
-- Orientacions per projectar el joc al gimnàs i preparar una pista interactiva amb Makey Makey.
-- Espai perquè els centres comparteixin experiències, resultats i recomanacions; les aportacions es moderen abans de publicar-se.
-- Eines d'administració per revisar, validar i gestionar les aportacions de la comunitat.
-
-M'he encarregat del disseny, desenvolupament i manteniment del web, així com de concretar la idea i convertir-la en una proposta digital completa.
-
-[Visita dancerevolutiontgn.cat](https://dancerevolutiontgn.cat) · [Repositori del projecte](https://github.com/antonnin/dance-revolution-tgn) · [Proposta original de Vicenç Rodríguez](https://www.quatreclics.com/inici/autors/vicen%C3%A7-rodr%C3%ADguez-jim%C3%A9nez-bravo)
