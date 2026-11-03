@@ -52,7 +52,7 @@ Abans d'incorporar-me a l'educació vaig treballar en enginyeria, analítica de 
 
 ### Dance Revolution EF · Educació Física, moviment i tecnologia
 
-*Mentoria 4.0 Tarragonès · Projecte en actiu*
+*[Mentoria 4.0](https://xtec.gencat.cat/ca/centres/mentors-4-0.html/) · CRP Tarragonès · Departament d'Educació i Formació Professional · Àrea de Tecnologia Educativa i Digitalització Responsable · Des del 2025*
 
 <p align="justify">He ideat i desenvolupat la digitalització de la proposta original de Vicenç Rodríguez Jiménez-Bravo: una experiència de Dance Revolution per portar el moviment i la programació a les sessions d'Educació Física.</p>
 
@@ -72,7 +72,7 @@ Abans d'incorporar-me a l'educació vaig treballar en enginyeria, analítica de 
 
 ### Estacions Meteorològiques en Xarxa · Mentories 4.0
 
-*Departament d'Educació i Formació Professional · Àrea de Tecnologia Educativa i Digitalització Responsable · Des del 2025*
+*[Mentoria 4.0](https://xtec.gencat.cat/ca/centres/mentors-4-0.html/) · CRP Alt Penedès · Departament d'Educació i Formació Professional · Àrea de Tecnologia Educativa i Digitalització Responsable · Des del 2025*
 
 <p align="justify">El 2025 vaig crear la idea inicial d'aquest projecte en xarxa per apropar l'observació meteorològica i l'Internet de les Coses als centres educatius. La plataforma reuneix dades enviades per estacions construïdes amb micro:bit, ESP32 i altres plaques, i les presenta perquè els centres les puguin explorar i treballar a l'aula.</p>
 
