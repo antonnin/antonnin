@@ -1,0 +1,87 @@
+# Anton-Nin
+
+Enginyer industrial · Professor de matemàtiques · Assessor tècnic docent i mentor 4.0
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonnin/)
+[![GitHub](https://img.shields.io/badge/GitHub-antonnin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antonnin)
+
+## Sobre mi
+
+Soc enginyer industrial, graduat en Enginyeria en Tecnologies Industrials i màster en Enginyeria Industrial, especialitzat en Electrònica Industrial i Automàtica. La docència sempre ha estat una vocació: em vaig formar com a professor de secundària de matemàtiques (màster cursat entre 2020 i 2021) i, després d'exercir a l'aula, vaig superar les oposicions el 2023 i vaig accedir al cos de professorat funcionari de carrera.
+
+Actualment treballo com a assessor tècnic docent i mentor 4.0 als CRP del Baix Penedès i del Tarragonès. Acompanyo els centres en la creació d'eines digitals i aplicacions amb IA, i en iniciatives de fabricació digital i pensament computacional. Abans d'incorporar-me a l'educació vaig treballar en enginyeria, analítica de dades i intel·ligència de negoci a empreses com Amazon i Lear Corporation. M'interessa transformar idees educatives en projectes digitals útils i sostenibles, i compartir amb els centres la meva passió per la tecnologia, la robòtica i l'aprenentatge.
+
+## Eines
+
+### Les domino
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![ThingSpeak](https://img.shields.io/badge/ThingSpeak-FF6600?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-6F42C1?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### N'estic aprenent
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Sé utilitzar
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
+
+## Projectes destacats
+
+### Estacions Meteorològiques en Xarxa · Mentories 4.0
+
+*Departament d'Educació i Formació Professional · Àrea de Tecnologia Educativa i Digitalització Responsable · 2025–actualitat*
+
+Des del 2025 contribueixo a un projecte en xarxa que apropa l'observació meteorològica i l'Internet de les Coses als centres educatius. La plataforma reuneix dades enviades per estacions construïdes amb micro:bit, ESP32 i altres plaques, i les presenta perquè els centres les puguin explorar i treballar a l'aula.
+
+- Mapa de Catalunya, pàgines de cada estació i gràfiques de dades meteorològiques i històriques.
+- Incorporació de noves estacions amb validació i eines de gestió de dades connectades amb ThingSpeak i Google Workspace.
+- Recursos per al professorat sobre muntatge, programació i connexió de les plaques.
+
+**Tecnologies:** JavaScript, HTML, CSS, Google Apps Script, Google Sheets, ThingSpeak, micro:bit, ESP32 i GitHub Pages.
+
+[Visita meteoescoles.cat](https://meteoescoles.cat) · [Repositori del projecte](https://github.com/antonnin/estacions-meteo-escoles)
+
+### Micro:bitada Penedès · Proposta educativa de robòtica
+
+*Grup de Treball de Robòtica del Baix Penedès · 2025*
+
+Projecte educatiu de robòtica concebut a partir de la feina del Grup de Treball de Robòtica del Baix Penedès. Amb l'equip vam idear les proves i els reptes que donen forma a l'experiència amb micro:bit. L'aplicació web acompanya els grups d'alumnes en cinc reptes de programació, amb pistes, nivells de dificultat i temporitzador, i està pensada per fer-se servir amb Chromebook. Les sessions s'organitzen amb codis d'accés; el sistema inclou un marcador en directe per projectar i eines de seguiment per al professorat.
+
+Hi he contribuït en el disseny del producte i de l'aplicació web, i en la revisió del sistema en el rol de **Product Manager**: he ajudat a concretar necessitats, supervisat el desenvolupament i revisat el funcionament de l'eina amb les proves d'ús. He participat en millores de robustesa i accessibilitat, com la recuperació del progrés, la gestió de l'activitat simultània i la navegació amb teclat. També he participat en el generador d'equips heterogenis per a les activitats i tinc accés al repositori del projecte.
+
+**Tecnologies:** HTML, CSS, JavaScript, Google Apps Script, Google Sheets i GitHub Pages; el generador d'equips es connecta a Firebase Firestore.
+
+[Visita microbitada.cat](https://microbitada.cat) · [Repositori del generador d'equips](https://github.com/antonnin/generador-grups-microbitada)
+
+### Dance Revolution EF · Educació Física, moviment i tecnologia
+
+*Mentoria 4.0 Tarragonès · Projecte en actiu*
+
+He ideat i desenvolupat la digitalització de la proposta original de Vicenç Rodríguez Jiménez-Bravo: una experiència de Dance Revolution per portar el moviment i la programació a les sessions d'Educació Física.
+
+- Joc complet i plantilla personalitzable de Scratch, amb cançons, nivells i opcions per crear coreografies.
+- Recursos didàctics i guies per a primària i secundària.
+- Orientacions per projectar el joc al gimnàs i preparar una pista interactiva amb Makey Makey.
+- Espai perquè els centres comparteixin experiències, resultats i recomanacions; les aportacions es moderen abans de publicar-se.
+- Eines d'administració per revisar, validar i gestionar les aportacions de la comunitat.
+
+M'he encarregat del disseny, desenvolupament i manteniment del web, així com de concretar la idea i convertir-la en una proposta digital completa.
+
+[Visita dancerevolutiontgn.cat](https://dancerevolutiontgn.cat) · [Repositori del projecte](https://github.com/antonnin/dance-revolution-tgn) · [Proposta original de Vicenç Rodríguez](https://www.quatreclics.com/inici/autors/vicen%C3%A7-rodr%C3%ADguez-jim%C3%A9nez-bravo)
