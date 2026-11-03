@@ -1,4 +1,4 @@
-# Anton-Nin
+# Anton Nin Nin
 
 Enginyer industrial · Professor de matemàtiques · Assessor tècnic docent i mentor 4.0
 
@@ -7,9 +7,11 @@ Enginyer industrial · Professor de matemàtiques · Assessor tècnic docent i m
 
 ## Sobre mi
 
-Soc enginyer industrial, graduat en Enginyeria en Tecnologies Industrials i màster en Enginyeria Industrial, especialitzat en Electrònica Industrial i Automàtica. La docència sempre ha estat una vocació: em vaig formar com a professor de secundària de matemàtiques (màster cursat entre 2020 i 2021) i, després d'exercir a l'aula, vaig superar les oposicions el 2023 i vaig accedir al cos de professorat funcionari de carrera.
+De formació, soc enginyer industrial superior: graduat en Enginyeria en Tecnologies Industrials i màster en Enginyeria Industrial, amb especialitat en Electrònica Industrial i Automàtica. La docència sempre ha estat una vocació: em vaig formar com a professor de secundària de matemàtiques (màster cursat entre 2020 i 2021) i, després d'exercir a l'aula, vaig superar les oposicions el 2023 i vaig accedir al cos de professorat funcionari de carrera.
 
-Actualment treballo com a assessor tècnic docent i mentor 4.0 als CRP del Baix Penedès i del Tarragonès. Acompanyo els centres en la creació d'eines digitals i aplicacions amb IA, i en iniciatives de fabricació digital i pensament computacional. Abans d'incorporar-me a l'educació vaig treballar en enginyeria, analítica de dades i intel·ligència de negoci a empreses com Amazon i Lear Corporation. M'interessa transformar idees educatives en projectes digitals útils i sostenibles, i compartir amb els centres la meva passió per la tecnologia, la robòtica i l'aprenentatge.
+Actualment treballo com a assessor tècnic docent i mentor 4.0, en el marc del programa **Código Escuela 4.0**, per a l'Àrea de Tecnologia Educativa i Digitalització Responsable del Departament d'Educació i Formació Professional de la Generalitat de Catalunya. El curs 2026–2027 soc al Tarragonès i el curs passat vaig ser al Penedès. Acompanyo els centres en la creació d'eines digitals i aplicacions amb IA, i en iniciatives de fabricació digital i pensament computacional.
+
+Abans d'incorporar-me a l'educació vaig treballar en enginyeria, analítica de dades i intel·ligència de negoci a empreses com Amazon i Lear Corporation. M'interessa transformar idees educatives en projectes digitals útils i sostenibles, i compartir amb els centres la meva passió per la tecnologia, la robòtica i l'aprenentatge.
 
 ## Eines
 
@@ -27,9 +29,18 @@ Actualment treballo com a assessor tècnic docent i mentor 4.0 als CRP del Baix 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Pivot](https://img.shields.io/badge/Power_Pivot-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Visual Basic for Applications](https://img.shields.io/badge/Visual_Basic_for_Applications-512BD4?style=for-the-badge)
+![Macros d'Excel](https://img.shields.io/badge/Macros_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### Sé utilitzar
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Assembler](https://img.shields.io/badge/Assembler-525252?style=for-the-badge)
 
 ### N'estic aprenent
 
@@ -37,18 +48,13 @@ Actualment treballo com a assessor tècnic docent i mentor 4.0 als CRP del Baix 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Sé utilitzar
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
-
 ## Projectes destacats
 
 ### Estacions Meteorològiques en Xarxa · Mentories 4.0
 
-*Departament d'Educació i Formació Professional · Àrea de Tecnologia Educativa i Digitalització Responsable · 2025–actualitat*
+*Departament d'Educació i Formació Professional · Àrea de Tecnologia Educativa i Digitalització Responsable · Des del 2025*
 
-Des del 2025 contribueixo a un projecte en xarxa que apropa l'observació meteorològica i l'Internet de les Coses als centres educatius. La plataforma reuneix dades enviades per estacions construïdes amb micro:bit, ESP32 i altres plaques, i les presenta perquè els centres les puguin explorar i treballar a l'aula.
+El 2025 vaig crear la idea inicial d'aquest projecte en xarxa per apropar l'observació meteorològica i l'Internet de les Coses als centres educatius. La plataforma reuneix dades enviades per estacions construïdes amb micro:bit, ESP32 i altres plaques, i les presenta perquè els centres les puguin explorar i treballar a l'aula. El curs 2026–2027, amb la meva companya [Paula-Pacho](https://github.com/Paula-Pacho), hi hem afegit noves funcionalitats.
 
 - Mapa de Catalunya, pàgines de cada estació i gràfiques de dades meteorològiques i històriques.
 - Incorporació de noves estacions amb validació i eines de gestió de dades connectades amb ThingSpeak i Google Workspace.
