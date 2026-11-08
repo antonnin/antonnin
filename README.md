@@ -1,9 +1,15 @@
+[Català](#catalan-version) · [English](#english-version)
+
+<a id="catalan-version"></a>
+
 # Anton Nin Nin
 
 Enginyer industrial · Professor de matemàtiques · Assessor tècnic docent i mentor 4.0
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonnin/)
 [![GitHub](https://img.shields.io/badge/GitHub-antonnin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antonnin)
+
+*La versió en anglès és més avall · [Ves a la versió en anglès](#english-version).*
 
 ## Sobre mi
 
@@ -103,3 +109,117 @@ Abans d'incorporar-me a l'educació vaig treballar en enginyeria, analítica de 
 <p align="justify"><strong>Tecnologies:</strong> HTML, CSS, JavaScript, Google Apps Script i Google Sheets; el generador d'equips es connecta a Firebase Firestore.</p>
 
 [Visita microbitada.cat](https://microbitada.cat) · [Repositori del generador d'equips](https://github.com/antonnin/generador-grups-microbitada)
+
+---
+
+<a id="english-version"></a>
+
+## English version
+
+[Català](#catalan-version) · [Back to top](#catalan-version)
+
+# Anton Nin Nin
+
+Industrial Engineer · Mathematics Teacher · Educational Technology Advisor and 4.0 Mentor
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonnin/)
+[![GitHub](https://img.shields.io/badge/GitHub-antonnin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antonnin)
+
+## About me
+
+I am a qualified industrial engineer, with a degree in Industrial Technologies Engineering and a Master's degree in Industrial Engineering, specializing in Industrial Electronics and Automation. Teaching has always been a calling: I trained as a secondary-school mathematics teacher (completing my master's degree between 2020 and 2021) and, after teaching in the classroom, passed the civil-service competitive examination in 2023 and joined the tenured teaching staff.
+
+I currently work as an educational technology advisor and 4.0 mentor within the **Código Escuela 4.0** programme, for the Educational Technology and Responsible Digitalisation Area of the Department of Education and Vocational Training of the Government of Catalonia. In the 2026–2027 school year, I am based in Tarragonès; the previous year, I was in Penedès. I support schools in creating digital tools and AI-powered applications, as well as in digital fabrication and computational thinking initiatives.
+
+Before moving into education, I worked in engineering, data analytics and business intelligence at companies such as Amazon and Lear Corporation. I am interested in turning educational ideas into useful, sustainable digital projects and sharing my passion for technology, robotics and learning with schools.
+
+## Tools
+
+### Confident with
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![ThingSpeak](https://img.shields.io/badge/ThingSpeak-FF6600?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-6F42C1?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Pivot](https://img.shields.io/badge/Power_Pivot-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Visual Basic for Applications](https://img.shields.io/badge/Visual_Basic_for_Applications-512BD4?style=for-the-badge)
+![Excel macros](https://img.shields.io/badge/Macros_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### Familiar with
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Assembler](https://img.shields.io/badge/Assembler-525252?style=for-the-badge)
+
+### Currently learning
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## Featured projects
+
+### Dance Revolution EF · Physical Education, movement and technology
+
+*[4.0 Mentorship](https://xtec.gencat.cat/ca/centres/mentors-4-0.html/) · Tarragonès Teacher Resource Centre (CRP) · Department of Education and Vocational Training · Educational Technology and Responsible Digitalisation Area · Since 2025*
+
+<p align="justify">I designed and developed the digital adaptation of Vicenç Rodríguez Jiménez-Bravo's original proposal: a Dance Revolution experience that brings movement and programming into Physical Education lessons.</p>
+
+<ul>
+<li align="justify">A complete game and customisable Scratch template, with songs, levels and options for creating choreography.</li>
+<li align="justify">Teaching resources and guides for primary and secondary education.</li>
+<li align="justify">Guidance on projecting the game in a gym and setting up an interactive floor with Makey Makey.</li>
+<li align="justify">A space for schools to share experiences, results and recommendations; submissions are moderated before publication.</li>
+<li align="justify">Administration tools to review, approve and manage community submissions.</li>
+</ul>
+
+<p align="justify">I have been responsible for the website's design, development and maintenance, as well as shaping the idea and turning it into a complete digital learning experience.</p>
+
+<p align="justify"><strong>Technologies:</strong> HTML, CSS and JavaScript ES modules; Firebase Authentication and Cloud Firestore, GitHub Actions and GitHub Pages.</p>
+
+[Visit dancerevolutiontgn.cat](https://dancerevolutiontgn.cat) · [Project repository](https://github.com/antonnin/dance-revolution-tgn) · [Vicenç Rodríguez's original proposal](https://www.quatreclics.com/inici/autors/vicen%C3%A7-rodr%C3%ADguez-jim%C3%A9nez-bravo)
+
+### Networked Weather Stations · 4.0 Mentorships
+
+*[4.0 Mentorship](https://xtec.gencat.cat/ca/centres/mentors-4-0.html/) · Alt Penedès Teacher Resource Centre (CRP) · Department of Education and Vocational Training · Educational Technology and Responsible Digitalisation Area · Since 2025*
+
+<p align="justify">In 2025, I came up with the initial idea for this collaborative project to bring weather observation and the Internet of Things to schools. The platform brings together data sent by weather stations built with micro:bit, ESP32 and other boards, and presents it for schools to explore and use in the classroom.</p>
+
+<p align="justify">In the 2026–2027 school year, my colleague <a href="https://github.com/Paula-Pacho">Paula-Pacho</a> and I added new features:</p>
+
+<ul>
+<li align="justify">A map of Catalonia, individual station pages, and charts of current and historical weather data.</li>
+<li align="justify">Validated onboarding for new stations and data-management tools connected to ThingSpeak and Google Workspace.</li>
+<li align="justify">Resources for teachers on assembling, programming and connecting the boards.</li>
+</ul>
+
+<p align="justify"><strong>Technologies:</strong> JavaScript, HTML, CSS, Google Apps Script, Google Sheets, ThingSpeak, micro:bit, ESP32 and GitHub Pages.</p>
+
+[Visit meteoescoles.cat](https://meteoescoles.cat) · [Project repository](https://github.com/antonnin/estacions-meteo-escoles)
+
+### Micro:bitada Penedès · Educational robotics project
+
+*Baix Penedès Robotics Working Group · 2025*
+
+<p align="justify">Together with the Baix Penedès Robotics Working Group, we developed the original activity concept as a team, along with all the educational activities and challenges built around the <a href="https://microbit.org/">micro:bit</a>.</p>
+
+<p align="justify"><strong>Web development:</strong> the web application was developed by <a href="https://github.com/Paula-Pacho">Paula-Pacho</a>. I served as <strong>Product Manager</strong>, helping define and review the product and oversee its development. I also have access to the project repository.</p>
+
+<p align="justify">The application guides student teams through five programming challenges, with hints, difficulty levels and a timer, and is designed for use with Chromebooks. Sessions are organised with access codes; the system includes a live scoreboard for projection and tracking tools for teachers.</p>
+
+<p align="justify">I also contributed to the heterogeneous team generator for the activities.</p>
+
+<p align="justify"><strong>Technologies:</strong> HTML, CSS, JavaScript, Google Apps Script and Google Sheets; the team generator connects to Firebase Firestore.</p>
+
+[Visit microbitada.cat](https://microbitada.cat) · [Team generator repository](https://github.com/antonnin/generador-grups-microbitada)
