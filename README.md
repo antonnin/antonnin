@@ -13,11 +13,11 @@ Enginyer industrial · Professor de matemàtiques · Assessor tècnic docent i m
 
 ## Sobre mi
 
-De formació, soc enginyer industrial superior: graduat en Enginyeria en Tecnologies Industrials i màster en Enginyeria Industrial, amb especialitat en Electrònica Industrial i Automàtica. La docència sempre ha estat una vocació: em vaig formar com a professor de secundària de matemàtiques (màster cursat entre 2020 i 2021) i, després d'exercir a l'aula, vaig superar les oposicions el 2023 i vaig accedir al cos de professorat funcionari de carrera.
+De formació, soc enginyer industrial superior: vaig obtenir el grau en Enginyeria en Tecnologies Industrials i el màster en Enginyeria Industrial a l'Escola Tècnica Superior d'Enginyeria Industrial de Barcelona (ETSEIB) de la Universitat Politècnica de Catalunya (UPC), amb especialitat en Electrònica Industrial i Automàtica. La docència sempre ha estat una vocació: em vaig formar com a professor de secundària de matemàtiques (màster cursat entre 2020 i 2021) i, després d'exercir a l'aula, vaig superar les oposicions el 2023 i vaig accedir al cos de professorat funcionari de carrera.
 
 Actualment treballo com a assessor tècnic docent i mentor 4.0, en el marc del programa **Código Escuela 4.0**, per a l'Àrea de Tecnologia Educativa i Digitalització Responsable del Departament d'Educació i Formació Professional de la Generalitat de Catalunya. El curs 2026–2027 soc al Tarragonès i el curs passat vaig ser al Penedès. Acompanyo els centres en la creació d'eines digitals i aplicacions amb IA, i en iniciatives de fabricació digital i pensament computacional.
 
-Abans d'incorporar-me a l'educació vaig treballar en enginyeria, analítica de dades i intel·ligència de negoci a empreses com Amazon i Lear Corporation. M'interessa transformar idees educatives en projectes digitals útils i sostenibles, i compartir amb els centres la meva passió per la tecnologia, la robòtica i l'aprenentatge.
+Abans d'incorporar-me a l'educació vaig treballar en enginyeria, analítica de dades i intel·ligència de negoci a les seus europees d'Amazon a Luxemburg i de Lear Corporation a Valls (Tarragona). M'interessa transformar idees educatives en projectes digitals útils i sostenibles, i compartir amb els centres la meva passió per la tecnologia, la robòtica i l'aprenentatge.
 
 ## Eines
 
@@ -127,11 +127,11 @@ Industrial Engineer · Mathematics Teacher · Educational Technology Advisor and
 
 ## About me
 
-I am a qualified industrial engineer, with a degree in Industrial Technologies Engineering and a Master's degree in Industrial Engineering, specializing in Industrial Electronics and Automation. Teaching has always been a calling: I trained as a secondary-school mathematics teacher (completing my master's degree between 2020 and 2021) and, after teaching in the classroom, passed the civil-service competitive examination in 2023 and joined the tenured teaching staff.
+I am a qualified industrial engineer: I earned my degree in Industrial Technologies Engineering and my Master's degree in Industrial Engineering at the Barcelona School of Industrial Engineering (ETSEIB), Universitat Politècnica de Catalunya (UPC), specialising in Industrial Electronics and Automation. Teaching has always been a calling: I trained as a secondary-school mathematics teacher (completing my master's degree between 2020 and 2021) and, after teaching in the classroom, passed the civil-service competitive examination in 2023 and joined the tenured teaching staff.
 
 I currently work as an educational technology advisor and 4.0 mentor within the **Código Escuela 4.0** programme, for the Educational Technology and Responsible Digitalisation Area of the Department of Education and Vocational Training of the Government of Catalonia. In the 2026–2027 school year, I am based in Tarragonès; the previous year, I was in Penedès. I support schools in creating digital tools and AI-powered applications, as well as in digital fabrication and computational thinking initiatives.
 
-Before moving into education, I worked in engineering, data analytics and business intelligence at companies such as Amazon and Lear Corporation. I am interested in turning educational ideas into useful, sustainable digital projects and sharing my passion for technology, robotics and learning with schools.
+Before moving into education, I worked in engineering, data analytics and business intelligence at Amazon's European headquarters in Luxembourg and Lear Corporation's European headquarters in Valls, Tarragona. I am interested in turning educational ideas into useful, sustainable digital projects and sharing my passion for technology, robotics and learning with schools.
 
 ## Tools
 
