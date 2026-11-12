@@ -9,7 +9,7 @@ Enginyer industrial · Professor de matemàtiques · Assessor tècnic docent i m
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonnin/)
 [![GitHub](https://img.shields.io/badge/GitHub-antonnin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antonnin)
 
-*La versió en anglès és més avall · [Ves a la versió en anglès](#english-version).*
+*The English version is below · [Go to the English version](#english-version).*
 
 ## Sobre mi
 
